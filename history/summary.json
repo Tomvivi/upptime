@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/wh1503126.ispot.cc.ico",
     "slug": "wh1503126-ispot-cc",
     "status": "up",
-    "uptime": "98.42%",
-    "uptimeDay": "98.42%",
-    "uptimeWeek": "98.42%",
-    "uptimeMonth": "98.42%",
-    "uptimeYear": "98.42%",
-    "time": 345,
-    "timeDay": 345,
-    "timeWeek": 345,
-    "timeMonth": 345,
-    "timeYear": 345,
-    "dailyMinutesDown": {
-      "2026-01-11": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 317,
+    "timeDay": 317,
+    "timeWeek": 317,
+    "timeMonth": 317,
+    "timeYear": 317,
+    "dailyMinutesDown": {}
   },
   {
     "name": "dpln-quetes.info",
@@ -25,18 +23,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/dpln-quetes.info.ico",
     "slug": "dpln-quetes-info",
     "status": "up",
-    "uptime": "98.42%",
-    "uptimeDay": "98.42%",
-    "uptimeWeek": "98.42%",
-    "uptimeMonth": "98.42%",
-    "uptimeYear": "98.42%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 343,
     "timeDay": 343,
     "timeWeek": 343,
     "timeMonth": 343,
     "timeYear": 343,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "test",
+    "url": "https://unity-quest.online/fr/mmorpg/actualites/news/anomalie-55801/inscrip.php",
+    "icon": "https://icons.duckduckgo.com/ip3/unity-quest.online.ico",
+    "slug": "test",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-11": 11
+      "2026-01-11": 0
     }
   }
 ]

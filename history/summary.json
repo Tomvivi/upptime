@@ -4,19 +4,19 @@
     "url": "https://wh1503126.ispot.cc/",
     "icon": "https://icons.duckduckgo.com/ip3/wh1503126.ispot.cc.ico",
     "slug": "wh1503126-ispot-cc",
-    "status": "down",
-    "uptime": "99.44%",
-    "uptimeDay": "98.59%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.44%",
-    "time": 401,
-    "timeDay": 677,
-    "timeWeek": 401,
-    "timeMonth": 401,
-    "timeYear": 401,
+    "status": "up",
+    "uptime": "98.87%",
+    "uptimeDay": "97.16%",
+    "uptimeWeek": "98.87%",
+    "uptimeMonth": "98.87%",
+    "uptimeYear": "98.87%",
+    "time": 668,
+    "timeDay": 1655,
+    "timeWeek": 668,
+    "timeMonth": 668,
+    "timeYear": 668,
     "dailyMinutesDown": {
-      "2026-01-13": 20
+      "2026-01-13": 41
     }
   },
   {

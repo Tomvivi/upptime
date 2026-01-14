@@ -22,19 +22,19 @@
     "url": "https://wh1503126.ispot.cc/fr/mmorpg/actualites/news/anomalie-89441/inscrip.php",
     "icon": "https://icons.duckduckgo.com/ip3/wh1503126.ispot.cc.ico",
     "slug": "wh1503126",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 146,
-    "timeDay": 146,
-    "timeWeek": 146,
-    "timeMonth": 146,
-    "timeYear": 146,
+    "status": "up",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
+    "time": 157,
+    "timeDay": 157,
+    "timeWeek": 157,
+    "timeMonth": 157,
+    "timeYear": 157,
     "dailyMinutesDown": {
-      "2026-01-14": 0
+      "2026-01-14": 185
     }
   }
 ]

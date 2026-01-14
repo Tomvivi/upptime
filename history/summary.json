@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/wh1503126.ispot.cc.ico",
     "slug": "wh1503126-ispot-cc",
     "status": "up",
-    "uptime": "98.17%",
+    "uptime": "98.31%",
     "uptimeDay": "94.74%",
-    "uptimeWeek": "98.17%",
-    "uptimeMonth": "98.17%",
-    "uptimeYear": "98.17%",
-    "time": 646,
-    "timeDay": 1336,
-    "timeWeek": 646,
-    "timeMonth": 646,
-    "timeYear": 646,
+    "uptimeWeek": "98.31%",
+    "uptimeMonth": "98.31%",
+    "uptimeYear": "98.31%",
+    "time": 618,
+    "timeDay": 1278,
+    "timeWeek": 618,
+    "timeMonth": 618,
+    "timeYear": 618,
     "dailyMinutesDown": {
       "2026-01-13": 76
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 360,
-    "timeDay": 405,
-    "timeWeek": 360,
-    "timeMonth": 360,
-    "timeYear": 360,
+    "time": 345,
+    "timeDay": 196,
+    "timeWeek": 345,
+    "timeMonth": 345,
+    "timeYear": 345,
     "dailyMinutesDown": {}
   }
 ]

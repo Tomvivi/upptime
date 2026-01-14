@@ -3,15 +3,15 @@ owner: tomvivi # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: wh1503126.ispot.cc
-    url: https://wh1503126.ispot.cc/
+  - name: dpln-guidesDOTcom
+    url: https://dpln-guides.com/
     expectedStatusCodes:
       - 200
       - 201
       - 403
       - 404
-  - name: dpln-quetes.info
-    url: https://dpln-quetes.info/anomalie-des-gorlak/quete/tutorial/
+  - name: wh1503126
+    url: https://wh1503126.ispot.cc/fr/mmorpg/actualites/news/anomalie-89441/inscrip.php
     expectedStatusCodes:
       - 200
       - 201

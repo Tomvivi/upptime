@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dpln-guides.com.ico",
     "slug": "dpln-guides-do-tcom",
     "status": "down",
-    "uptime": "62.42%",
-    "uptimeDay": "53.95%",
-    "uptimeWeek": "62.42%",
-    "uptimeMonth": "62.42%",
-    "uptimeYear": "62.42%",
+    "uptime": "56.01%",
+    "uptimeDay": "39.91%",
+    "uptimeWeek": "56.01%",
+    "uptimeMonth": "56.01%",
+    "uptimeYear": "56.01%",
     "time": 691,
-    "timeDay": 666,
+    "timeDay": 363,
     "timeWeek": 691,
     "timeMonth": 691,
     "timeYear": 691,
     "dailyMinutesDown": {
-      "2026-01-15": 663
+      "2026-01-16": 71,
+      "2026-01-15": 794
     }
   },
   {
@@ -25,16 +26,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/wh1503126.ispot.cc.ico",
     "slug": "wh1503126",
     "status": "up",
-    "uptime": "89.54%",
+    "uptime": "90.61%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.54%",
-    "uptimeMonth": "89.54%",
-    "uptimeYear": "89.54%",
-    "time": 236,
-    "timeDay": 395,
-    "timeWeek": 236,
-    "timeMonth": 236,
-    "timeYear": 236,
+    "uptimeWeek": "90.61%",
+    "uptimeMonth": "90.61%",
+    "uptimeYear": "90.61%",
+    "time": 241,
+    "timeDay": 255,
+    "timeWeek": 241,
+    "timeMonth": 241,
+    "timeYear": 241,
     "dailyMinutesDown": {
       "2026-01-14": 185
     }

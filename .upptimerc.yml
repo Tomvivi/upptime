@@ -15,6 +15,13 @@ sites:
   - 201
   - 403
   - 404
+- name: unity-quetes.blog-fr-mmorpg-actualites-news-anomalie-21701-inscrip.php
+  url: https://unity-quetes.blog/fr/mmorpg/actualites/news/anomalie-21701/inscrip.php
+  expectedStatusCodes:
+  - 200
+  - 201
+  - 403
+  - 404
 status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg

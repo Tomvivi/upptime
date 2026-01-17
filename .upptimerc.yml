@@ -1,13 +1,6 @@
 owner: tomvivi
 repo: upptime
 sites:
-- name: www.google.com
-  url: https://www.google.com
-  expectedStatusCodes:
-  - 200
-  - 201
-  - 403
-  - 404
 - name: dpln-guides.com-anomalie-des-etherin-quete-tutorial
   url: https://dpln-guides.com/anomalie-des-etherin/quete/tutorial
   expectedStatusCodes:

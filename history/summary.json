@@ -5,39 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dpln-guides.com.ico",
     "slug": "dpln-guides-do-tcom",
     "status": "up",
-    "uptime": "79.82%",
+    "uptime": "79.83%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "79.82%",
-    "uptimeMonth": "79.82%",
-    "uptimeYear": "79.82%",
-    "time": 576,
-    "timeDay": 553,
-    "timeWeek": 576,
-    "timeMonth": 576,
-    "timeYear": 576,
+    "uptimeWeek": "79.83%",
+    "uptimeMonth": "79.83%",
+    "uptimeYear": "79.83%",
+    "time": 569,
+    "timeDay": 544,
+    "timeWeek": 569,
+    "timeMonth": 569,
+    "timeYear": 569,
     "dailyMinutesDown": {
       "2026-01-16": 111,
       "2026-01-15": 794
-    }
-  },
-  {
-    "name": "wh1503126",
-    "url": "https://wh1503126.ispot.cc/fr/mmorpg/actualites/news/anomalie-89441/inscrip.php",
-    "icon": "https://icons.duckduckgo.com/ip3/wh1503126.ispot.cc.ico",
-    "slug": "wh1503126",
-    "status": "up",
-    "uptime": "95.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.88%",
-    "uptimeMonth": "95.88%",
-    "uptimeYear": "95.88%",
-    "time": 296,
-    "timeDay": 405,
-    "timeWeek": 296,
-    "timeMonth": 296,
-    "timeYear": 296,
-    "dailyMinutesDown": {
-      "2026-01-14": 185
     }
   },
   {
@@ -51,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 96,
-    "timeDay": 96,
-    "timeWeek": 96,
-    "timeMonth": 96,
-    "timeYear": 96,
+    "time": 89,
+    "timeDay": 89,
+    "timeWeek": 89,
+    "timeMonth": 89,
+    "timeYear": 89,
     "dailyMinutesDown": {}
   }
 ]

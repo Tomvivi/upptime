@@ -1,26 +1,5 @@
 [
   {
-    "name": "dpln-guidesDOTcom",
-    "url": "https://dpln-guides.com/",
-    "icon": "https://icons.duckduckgo.com/ip3/dpln-guides.com.ico",
-    "slug": "dpln-guides-do-tcom",
-    "status": "up",
-    "uptime": "79.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "79.83%",
-    "uptimeMonth": "79.83%",
-    "uptimeYear": "79.83%",
-    "time": 569,
-    "timeDay": 544,
-    "timeWeek": 569,
-    "timeMonth": 569,
-    "timeYear": 569,
-    "dailyMinutesDown": {
-      "2026-01-16": 111,
-      "2026-01-15": 794
-    }
-  },
-  {
     "name": "www.google.com",
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
@@ -31,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 89,
-    "timeDay": 89,
-    "timeWeek": 89,
-    "timeMonth": 89,
-    "timeYear": 89,
+    "time": 85,
+    "timeDay": 85,
+    "timeWeek": 85,
+    "timeMonth": 85,
+    "timeYear": 85,
     "dailyMinutesDown": {}
   }
 ]

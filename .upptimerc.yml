@@ -8,13 +8,6 @@ sites:
   - 201
   - 403
   - 404
-- name: wh1503126
-  url: https://wh1503126.ispot.cc/fr/mmorpg/actualites/news/anomalie-89441/inscrip.php
-  expectedStatusCodes:
-  - 200
-  - 201
-  - 403
-  - 404
 - name: www.google.com
   url: https://www.google.com
   expectedStatusCodes:

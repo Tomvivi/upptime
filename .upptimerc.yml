@@ -8,6 +8,13 @@ sites:
   - 201
   - 403
   - 404
+- name: dpln-guides.com-anomalie-des-etherin-quete-tutorial
+  url: https://dpln-guides.com/anomalie-des-etherin/quete/tutorial
+  expectedStatusCodes:
+  - 200
+  - 201
+  - 403
+  - 404
 status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg

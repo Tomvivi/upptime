@@ -1,13 +1,6 @@
 owner: tomvivi
 repo: upptime
 sites:
-- name: dpln-guidesDOTcom
-  url: https://dpln-guides.com/
-  expectedStatusCodes:
-  - 200
-  - 201
-  - 403
-  - 404
 - name: www.google.com
   url: https://www.google.com
   expectedStatusCodes:

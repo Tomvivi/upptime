@@ -58,19 +58,19 @@
     "url": "https://www.gautofu.store/log.html",
     "icon": "https://icons.duckduckgo.com/ip3/www.gautofu.store.ico",
     "slug": "www-gautofu-store-log-html",
-    "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 982,
-    "timeDay": 982,
-    "timeWeek": 982,
-    "timeMonth": 982,
-    "timeYear": 982,
+    "status": "up",
+    "uptime": "42.74%",
+    "uptimeDay": "42.74%",
+    "uptimeWeek": "42.74%",
+    "uptimeMonth": "42.74%",
+    "uptimeYear": "42.74%",
+    "time": 778,
+    "timeDay": 778,
+    "timeWeek": 778,
+    "timeMonth": 778,
+    "timeYear": 778,
     "dailyMinutesDown": {
-      "2026-01-19": 0
+      "2026-01-19": 48
     }
   }
 ]

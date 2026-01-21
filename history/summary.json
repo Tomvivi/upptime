@@ -40,7 +40,7 @@
     "url": "https://www.boutique-dofus.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.boutique-dofus.fr.ico",
     "slug": "www-boutique-dofus-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 479,
     "timeMonth": 479,
     "timeYear": 479,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-21": 0
+    }
   },
   {
     "name": "www.gautofu.store-log.html",
@@ -59,13 +61,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gautofu.store.ico",
     "slug": "www-gautofu-store-log-html",
     "status": "up",
-    "uptime": "81.77%",
-    "uptimeDay": "79.06%",
-    "uptimeWeek": "81.77%",
-    "uptimeMonth": "81.77%",
-    "uptimeYear": "81.77%",
+    "uptime": "85.49%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "85.49%",
+    "uptimeMonth": "85.49%",
+    "uptimeYear": "85.49%",
     "time": 624,
-    "timeDay": 505,
+    "timeDay": 553,
     "timeWeek": 624,
     "timeMonth": 624,
     "timeYear": 624,

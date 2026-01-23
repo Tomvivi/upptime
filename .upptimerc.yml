@@ -15,13 +15,6 @@ sites:
   - 201
   - 403
   - 404
-- name: www.boutique-dofus.fr
-  url: https://www.boutique-dofus.fr
-  expectedStatusCodes:
-  - 200
-  - 201
-  - 403
-  - 404
 - name: www.gautofu.store-log.html
   url: https://www.gautofu.store/log.html
   expectedStatusCodes:
